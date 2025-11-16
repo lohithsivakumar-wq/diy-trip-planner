@@ -1,1 +1,0 @@
-# diy-trip-planner
